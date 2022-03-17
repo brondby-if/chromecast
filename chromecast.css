@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(background.png);
+  background: center no-repeat url(https://mit.brondby.com/images/background.jpg);
 }
 
 .logo {
-  background-image: url(logo.png);
+  background-image: url(https://mit.brondby.com/images/bif-logo.svg);
 }
 
 .progressBar {
@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url(splash.png);
+  background-image: url(https://mit.brondby.com/images/bif-logo.svg);
 }
 
 .watermark {
-  background-image: url(watermark.png);
+  background-image: url(https://mit.brondby.com/images/bif-logo.svg);
   background-size: 57px 57px;
 }
